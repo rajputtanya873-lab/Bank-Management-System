@@ -1,0 +1,13 @@
+
+7000000
+-70000
+Deposited:70000,Balance:70000
+Withdrawn:9000,Balance:0 
+Withdrawn:9880,Balance:0 
+Withdrawn:800,Balance:-800
+Withdrawn:9000,Balance:-9000
+Deposited:8000,Balance:8000
+Deposited:8000,Balance:8000
+Deposited:78900,Balance:78900
+Withdrawn:7000,Balance:-7000
+Withdrawn:7000,Balance:-7000
